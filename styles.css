@@ -56,7 +56,7 @@ body {
 }
 .section h2 + p a {
   color: #b5f4f8 !important;
-  text-decoration: underline;
+  text-decoration: none;
   font-weight: bold;
 }
 .contact-info{ /* edits position of the contact information */
