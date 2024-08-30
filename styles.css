@@ -6,6 +6,10 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.0;
+  background-image: url('https://r4.wallpaperflare.com/wallpaper/7/827/804/light-web-sky-digital-art-wallpaper-9866cd9880b04cc8f05c71be18b2d4ca.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 .container { /* edits the light purple box pertaining to its size */
   max-width: 800px;
@@ -41,7 +45,7 @@ body {
   font-size: 19px; /* Smaller font size for 'Minor in Mathematics' */
 }
 .section { /* edits parameters for the light purple boxes */
-  background-color: #5e3a83;
+  background-color: #442c58;
   padding: 20px; /* edits how much the wording is wrapped by box */
   margin: 10px 0;
   border-radius: 20px; /* adds radius to each of the boxes */
