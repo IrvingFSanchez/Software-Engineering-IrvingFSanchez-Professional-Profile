@@ -41,7 +41,7 @@ body {
   font-size: 19px; /* Smaller font size for 'Minor in Mathematics' */
 }
 .section { /* edits parameters for the light purple boxes */
-  background-color: #6a4192;
+  background-color: #5e3a83;
   padding: 20px; /* edits how much the wording is wrapped by box */
   margin: 10px 0;
   border-radius: 20px; /* adds radius to each of the boxes */
@@ -51,8 +51,8 @@ body {
   margin: 0;
 }
 .section h2 + p a {
-  color: rgb(117, 236, 218) !important;
-  text-decoration: none;
+  color: #b5f4f8 !important;
+  text-decoration: underline;
   font-weight: bold;
 }
 .contact-info{ /* edits position of the contact information */
@@ -70,4 +70,14 @@ body {
 .separator { /* the little line between discord and email */
   color: #ffffff;
   margin: 05px;
+}
+
+.resume-link a{ /* color of resume link */
+  color: #b5f4f8;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.container {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
