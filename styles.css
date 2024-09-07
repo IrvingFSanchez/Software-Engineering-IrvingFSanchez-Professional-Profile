@@ -44,6 +44,11 @@ body {
 .header h2.minor {
   font-size: 19px; /* Smaller font size for 'Minor in Mathematics' */
 }
+
+ul {
+  list-style-type: square; /* This changes bullet points to squares instead of round circles */
+}
+
 .section { /* edits parameters for the light purple boxes */
   background-color: #442c58;
   padding: 20px; /* edits how much the wording is wrapped by box */
