@@ -49,7 +49,7 @@ ul {
 }
 
 .section { /* edits parameters for the light purple boxes */
-  background-color: #5f477a;
+  background-color: #5f477a83;
   padding: 20px; /* edits how much the wording is wrapped by box */
   margin: 10px 0;
   border-radius: 20px; /* adds radius to each of the boxes */
@@ -67,7 +67,7 @@ ul {
   position:absolute;
   top: 10px;
   right: 10px;
-  font-size: 10px;
+  font-size: 14px;
 }
 
 .contact-link { /* color of contact link information */
